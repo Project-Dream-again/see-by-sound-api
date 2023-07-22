@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+gTTS
+google-cloud-storage
+firebase
+firebase_admin
+python-dotenv
